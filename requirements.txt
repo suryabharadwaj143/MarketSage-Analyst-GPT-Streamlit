@@ -1,0 +1,5 @@
+gradio
+yfinance
+streamlit
+pandas
+websockets
