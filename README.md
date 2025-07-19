@@ -3,8 +3,9 @@
 <img width="852" height="743" alt="image" src="https://github.com/user-attachments/assets/abf8085b-2529-44b5-b82c-7318157df56b" />
 
 **🧠 What is MarketSage Analyst GPT?**
-MarketSage Analyst GPT is your personal AI stock market companion built specifically for the Indian stock market (NSE). It provides:
+MarketSage Analyst GPT is your personal AI stock market companion built specifically for the Indian stock market (NSE). 
 
+**It provides:**
 ✅ Real-time analysis using live stock market data
 ✅ Tracks All-Time Highs (ATH), SMA 50, SMA 200
 ✅ Identifies near-ATH zones with < 0.5% tolerance
